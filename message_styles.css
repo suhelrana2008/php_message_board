@@ -1,0 +1,36 @@
+/* Stylesheet for PostMessage and MessageBoard PHP documents */
+
+body {
+	background-color: lightsteelblue;
+}
+
+h1 {
+	font-size: 2.5em;
+	color: white;
+	letter-spacing: 8px;
+	font-family: "Arial Black", sans-serif;
+	text-shadow: 2px 2px 3px brown;	
+}
+
+label {
+	font-size: 1.5em;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+
+input[name='submit'], [name='reset'] {
+	background-color: orange;	
+}
+
+a {
+	text-decoration: none;
+	color: darkred;
+}
+
+table {
+	background-color: lightgray;	
+}
+
+a.delete {
+	color: darkred;
+}
